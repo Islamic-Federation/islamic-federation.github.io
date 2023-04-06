@@ -1,0 +1,80 @@
+span.ts1{font-family:Tahoma;font-size:15;color:#ffffff;font-weight:bold;}
+span.ts1c2{color:#a3ccf5;}
+span.ts2{font-family:Tahoma;font-size:15;color:#19334d;font-weight:bold;}
+span.ts2c2{color:#336699;}
+span.ts3{font-family:Tahoma;font-size:15;color:#19334d;font-weight:bold;}
+span.ts3c2{color:#000000;}
+span.gb1{font-family:Tahoma;font-size:12;color:#000000;}
+td.gb1-bk{background-color:#cfe6fc;}
+table.gb1-bk{background-color:#cfe6fc;}
+td.gb1-tbar{background-color:#336699;}
+table.gb1-tbar{background-color:#336699;}
+span.gb2{font-family:Tahoma;font-size:12;color:#ffffff;}
+td.gb2-bk{background-color:#cfe6fc;}
+table.gb2-bk{background-color:#cfe6fc;}
+td.gb2-tbar{background-color:#336699;}
+table.gb2-tbar{background-color:#336699;}
+span.gb3{font-family:Tahoma;font-size:12;color:#336699;}
+td.gb3-bk{background-color:#cfe6fc;}
+table.gb3-bk{background-color:#cfe6fc;}
+td.gb3-tbar{background-color:#19334d;}
+table.gb3-tbar{background-color:#19334d;}
+div.qb1 table tr td {text-align:left;padding:1px 1px 1px 1px}
+a.lnkd {font-size:10pt;color:19334d;text-decoration:none}
+div.qb1 table tr td a:hover {color:#a3ccf5;text-align:left}
+div.qb1 table tr td a {text-decoration:none;color:#ffffff;text-align:left;padding-left:0px;padding-right:0px;font-size:8pt}
+a.lnkl {font-size:10pt;color:a3ccf5;text-decoration:none}
+a.lnkd:hover {font-size:10pt;color:336699;text-decoration:none}
+a.lnkl:hover {font-size:10pt;color:cfe6fc;text-decoration:none}
+#content {background-color:ffffff;padding-top:10px;padding-left:10px;padding-right:10px;height:100%;}
+#content-table {width:100%;}
+#content-td {vertical-align:top;height:100%;}
+#content-main {display:inline-block;}
+#content-left {margin-right:15px;;display:inline-block;height:100%;}
+#content-right {margin-left:21px;;display:inline-block;height:100%;width:99%}
+#menu-main {text-align:center;display:inline-block;margin-bottom:10px;}
+#menu-sub {text-align:center;display:inline-block;margin-bottom:10px;}
+#sbar-lt-page {}
+#sbar-lt-site {}
+#sbar-rt-page {}
+#sbar-rt-site {}
+
+
+<!--
+
+#ftext-wrap {background-color:#}
+#ftext {font-size:;color:#;display:block;text-align:center}
+#powered {color:#;padding:3px}
+
+
+DIV#fmenu-wrap {text-align:center;background-color:#;padding:2px}
+SPAN#fmenu {display:inline-block;}
+SPAN#fmenu ul {display:inline;list-style-type:none;}
+SPAN#fmenu ul li {display:inline-block;float:left}
+SPAN#fmenu ul li a {color:#;font-size:;display:inline;text-decoration:none;padding:2px;margin-left:5px}
+SPAN#fmenu ul li a:hover {color:#;}
+
+
+div#footer-menu-wrap  {background-color:;padding:3px}
+-->
+
+/*
+     FILE ARCHIVED ON 10:01:26 Mar 05, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:21:13 Apr 06, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 95.812
+  exclusion.robots: 0.063
+  exclusion.robots.policy: 0.055
+  RedisCDXSource: 6.262
+  esindex: 0.009
+  LoadShardBlock: 73.587 (3)
+  PetaboxLoader3.datanode: 106.157 (4)
+  load_resource: 107.675
+  PetaboxLoader3.resolve: 32.309
+*/
